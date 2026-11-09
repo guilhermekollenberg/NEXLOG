@@ -1,0 +1,18 @@
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações de editores
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup
+*.bak
+*.old
+
+# Configuração local do banco de dados
+/config/conexao.php
